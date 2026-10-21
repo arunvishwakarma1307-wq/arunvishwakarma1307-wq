@@ -6,10 +6,10 @@
 
 I'm developing my Cloud Engineering and DevOps skills through hands-on projects involving Linux administration, server automation, CI/CD, cloud fundamentals, and application development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/arunvishwakarma1307-wq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-vishwakarma-9a25543b3/)
-[![Cloud Guard](https://img.shields.io/badge/Cloud_Guard-Live_Demo-00A67D?style=for-the-badge&logo=flutter)](https://arunvishwakarma1307-wq.github.io/Cloud-Guard/)
-[![Linux Cheat Sheet](https://img.shields.io/badge/Linux_Cheat_Sheet-Live_Website-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://arunvishwakarma1307-wq.github.io/linux-cheat-sheet/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arunvishwakarma1307-wq)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-vishwakarma-9a25543b3/)
+[![Cloud Guard](https://img.shields.io/badge/Cloud%20Guard-00A67D?style=flat-square&logo=flutter&logoColor=white)](https://arunvishwakarma1307-wq.github.io/Cloud-Guard/)
+[![Linux Cheat Sheet](https://img.shields.io/badge/Linux%20Cheat%20Sheet-FCC624?style=flat-square&logo=linux&logoColor=black)](https://arunvishwakarma1307-wq.github.io/linux-cheat-sheet/)
 
 ---
 
